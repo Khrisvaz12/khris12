@@ -13,6 +13,6 @@ form.addEventListener('submit', (e) => {
 		resultDiv.innerHTML = 'Baby';
 		window.location.href = nextPageUrl; // Redirect to new page
 	} else {
-		resultDiv.innerHTML = 'Naa Tum meri baby nhi hoo kon hooo tum kaha hai meri Sona';
+		resultDiv.innerHTML = 'U known the password haaa acting kar ma have i call u by that name every day. haa bas wrong password add kar to website refresh karje';
 	}
 });
